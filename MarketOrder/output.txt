@@ -1,0 +1,11 @@
+1 - Accept
+2 - Accept
+3 - Accept
+4 - Accept
+10 - Accept
+12 - Accept
+11 - Accept
+14 - Accept
+16 - Accept
+18 - Accept
+20 - Accept
